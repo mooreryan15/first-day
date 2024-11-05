@@ -1,2 +1,3 @@
 # first-day
-First day learning 
+It is our first day learning!
+
